@@ -1,0 +1,81 @@
+    1  ls
+    2  ls
+    3  cls
+    4  clear
+    5  ls
+    6  cd desktop
+    7  ls
+    8  cd HW_10
+    9  pwd
+   10  [200~touch empty.txt~
+   11  clear
+   12  [200~touch empty.txt~
+   13  touch empty.txt
+   14  nano emty.txt
+   15  git config --global user.name "Oksana Okarmus"
+   16  [200~ 
+   17   
+   18   	
+   19  git config --global user.email ksyokarmys@gmail,com
+   20  git clone https://github.com/OksanaOkarmus/HW_10.git
+   21  ls
+   22  git add branch_develop
+   23  git status
+   24  git branch
+   25  git checkout main
+   26  git commit -a develop_test.txt file
+   27  git status
+   28  git add develop_test.txt file
+   29  git status
+   30  git add branch "branch_develop"
+   31  git rm develop_test.txt file
+   32  git branch develop
+   33  git status
+   34  git config --global user.name "Oksana Okarmus"
+   35  git config --global user.email ksyokarmys@gmail.com
+   36  git clone https://github.com/OksanaOkarmus/HW_10.git
+   37  git status
+   38  cd HW_10
+   39  git status
+   40  touch text_ignore.txt
+   41  git status
+   42  git add text_ignore.txt
+   43  git status
+   44  nano .gitignore
+   45  git commit -m "New file created"
+   46  touch main_test.txt
+   47  git status
+   48  git add .gitignore
+   49  git status
+   50  git add main_test.txt
+   51  git status
+   52  git commit -m "old file modifided and new file created"
+   53  git branch
+   54  git checkout -b branch_develop
+   55  git branch
+   56  touch develop_test.txt
+   57  git add develop_test.txt
+   58  git status
+   59  git add branch_develop
+   60  git status
+   61  git commit -m "New branch created and new file created"
+   62  nano develop_test.txt
+   63  git add develop_test.txt
+   64  git status
+   65  git commit -m "file modified"
+   66  git status
+   67  git checkout branch_main
+   68  git checkout branch main
+   69  checkout main
+   70  checkout branch main
+   71  git status
+   72  git add develop_test.txt
+   73  git status
+   74  git commit -m "New modified"
+   75  git branch
+   76  git checkout main
+   77  git merge branch_develop
+   78  git branch
+   79  git status
+   80  git log
+   81  history > command_list.csv
